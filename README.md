@@ -2,7 +2,7 @@
 
 Bienvenido a la página de inicio de Damian Sire, aquí encontrará información sobre mí, mis servicios y detalles de contacto.
 
-Puedes acceder a mi CV completo simplemente enviandome un correo a damiansirecontacto@gmail.com o contactandome en alguna de mis redes sociales.
+Puedes acceder a mi CV completo simplemente enviandome un correo a [damiansirecontacto@gmail.com](mailto:damiansirecontacto@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) o contactandome en alguna de mis redes sociales. 
 
 Antes de seguir leyendo, dejame decirte que esta pagina tiende mas a algo personal que formal,ya que a lo largo de mi vida, he descubierto que la gente me recuerda por algo mas que mis grandes habilidades con la tecnologia, en las siguientes lineas, te mostrare esa parte de mi que no aparece en el curriculum.
 
@@ -63,5 +63,5 @@ Brindo clases de programacion online, ya sea, para acompañarte en tu proceso de
 
 ### Contacto
 
-Puede comunicarse conmigo por correo electrónico a [damiansirecontacto@hotmail.com](damiansirecontacto@gmail.com)
+Puede comunicarse conmigo por correo electrónico a [damiansirecontacto@gmail.com](mailto:damiansirecontacto@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
