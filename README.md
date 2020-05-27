@@ -1,8 +1,8 @@
 ## Bienvenido a un breve resumen de mi
 
-You can use the [editor on GitHub](https://github.com/damiansire/personalPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bienvenido a la página de inicio de Damian Sire, aquí encontrará información sobre mí, mis servicios y detalles de contacto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Puedes acceder a mi CV completo simplemente enviandome un correo a damiansirecontacto@gmail.com o contactandome en alguna de mis redes sociales.
 
 ### Markdown
 
