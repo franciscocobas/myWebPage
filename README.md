@@ -15,13 +15,13 @@ Mis mayores pasiones son la programación, la matemática y la visualización de
 Es una sensacion increible que las personas te envien mensajes de cuanto les ha servido lo que has creado, que te apoyen a seguir adelante, que les gusta lo que haces o compartes. Esos pequeños momentos, son invaluables. El hecho de compartir lo que se, de crear algo que los demas usen, el poder analizar mi entorno mediante los datos, el crear cosas interesantes, eso es lo que me mueve. 
 
 
-### Participaciones en la comunidad 
+### Participacion en la comunidad 
 
 Hace años que concurro activamente a las meetups, ya sea presencial o virtualmente. Siempre las habia considerado como un espacio increible, donde podia estar en contactos con otros desarrolladores y aprender mucho. Pero hoy en dia, se volvieron un espacio, para compartir con la comunidad y para tambien yo poder ayudar a crezca.
 
 ### Charlas 2020
 
-- ***AngularMVD*** - [Visualización de datos en angular con PrimeNg]([https://www.meetup.com/es/Angular-MVD/events/ktqljlybchbbc/]).
+- ***AngularMVD*** - [Visualización de datos en angular con PrimeNg](https://www.meetup.com/es/Angular-MVD/events/ktqljlybchbbc/).
 
 - ***PyLadies*** - [Persiguiendo al COVID-19 por Damián Siré](https://www.meetup.com/es/PyLadiesUy/events/269044767/).
 
@@ -29,9 +29,17 @@ Hace años que concurro activamente a las meetups, ya sea presencial o virtualme
 
 ### Próximas charlas
 
-- ***JavascriptMontevideo*** - [RxJs - Observable y Operadores]([[https://www.meetup.com/es/montevideojs/](https://www.meetup.com/es/montevideojs/)]).
+- ***JavascriptMontevideo*** - [RxJs - Observables y Operadores]([[https://www.meetup.com/es/montevideojs/](https://www.meetup.com/es/montevideojs/)]).
 
-Soy esa persona que te va a escuchar atentamente e inconcientemente te va a hacer que si con la cabeza mientras presentas, porque se lo que es estar de esa lado y la seguridad que da mirar a alguien diciendo que si. (Parece tonto, lo se)
+Si tuviera que definirme, soy esa persona que te va a escuchar atentamente e inconcientemente te va a hacer que si con la cabeza mientras presentas, porque se lo que es estar de esa lado y la seguridad que da mirar a alguien diciendo que si. (Parece tonto, lo se)
+
+### Articulos
+
+-[Una travesia de tres años para proteger los datos de cientos de miles de estudiantes](https://www.elobservador.com.uy/nota/falla-en-la-web-de-la-udelar-dejo-al-descubierto-datos-personales-de-todos-sus-estudiantes-20202718458).
+
+-[Una nota del diario sobre los jovenes hackers Uruguayos](https://www.elobservador.com.uy/nota/quienes-son-los-estudiantes-de-ingenieria-que-encuentran-fallas-en-sitios-del-estado-2020212154444).
+
+-[Un fallo tonto que permitia acceder a los usuarios de una gran parte de los docentes en la plataforma educativa de Uruguay](https://www.elobservador.com.uy/nota/aparecen-imagenes-porno-en-plataforma-del-plan-ceibal-y-docentes-piden-mas-seguridad-2020420171713).
 
 
 ####
