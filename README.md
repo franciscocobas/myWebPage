@@ -35,7 +35,7 @@ Hace años que concurro activamente a las meetups, ya sea presencial o virtualme
 
 Si tuviera que definirme, soy esa persona que te va a escuchar atentamente e inconcientemente te va a hacer que si con la cabeza mientras presentas, porque se lo que es estar de esa lado y la seguridad que da mirar a alguien diciendo que si. (Parece tonto, lo se)
 
-### Articulos
+### Articulos en el diario
 
 -[Una travesia de tres años para proteger los datos de cientos de miles de estudiantes](https://www.elobservador.com.uy/nota/falla-en-la-web-de-la-udelar-dejo-al-descubierto-datos-personales-de-todos-sus-estudiantes-20202718458).
 
@@ -43,6 +43,7 @@ Si tuviera que definirme, soy esa persona que te va a escuchar atentamente e inc
 
 -[Un fallo tonto que permitia acceder a los usuarios de una gran parte de los docentes en la plataforma educativa de Uruguay](https://www.elobservador.com.uy/nota/aparecen-imagenes-porno-en-plataforma-del-plan-ceibal-y-docentes-piden-mas-seguridad-2020420171713).
 
+Lamentablemente no cuento con el acceso a las entrevistas que he brindado para la television y radio.
 
 ### Mis servicios
 
@@ -75,7 +76,8 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+2. Listsdfsadfasdlfsd
+fsdkamfskadfmnsa
 
 **Bold** and _Italic_ and `Code` text
 
@@ -83,11 +85,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/damiansire/personalPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
