@@ -4,9 +4,19 @@ Bienvenido a la página de inicio de Damian Sire, aquí encontrará información
 
 Puedes acceder a mi CV completo simplemente enviandome un correo a damiansirecontacto@gmail.com o contactandome en alguna de mis redes sociales.
 
-### Markdown
+### Sobre mi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mis mayores pasiones son la programación, la matemática y la visualización de datos. Me encanta aprender de lo que sea, y si esta relacionado con tecnologia, aun mas. Un detalle interesante es que a lo largo de mi vida he descubierto que el mejor metodo para aprender, es hacerlo con la intencion de compartir el conocimiento con los demas.
+
+### ¿Que es lo que me mueve dia a dia?
+
+Es una sensacion increible que las personas te envien mensajes de cuanto les ha servido lo que has creado, que te apoyen a seguir adelante, que les gusta lo que haces o compartes. Esos pequeños momentos, son invaluables. El hecho de compartir lo que se, de crear algo que los demas usen, el poder analizar mi entorno mediante los datos, el crear cosas interesantes, eso es lo que me mueve. 
+
+### 
+
+Soy esa persona, que siempre te va a mirar e inconcientemente te va a hacer que si con la cabeza mientras presentas, porque se lo que es estar de esa lado y la seguridad que da mirar a alguien diciendo que si. 
+
+### Participaciones en meetup 
 
 ```markdown
 Syntax highlighted code block
