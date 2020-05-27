@@ -60,6 +60,10 @@ Normalmente tengo un trabajo fijo como developer en Uruguay, pero por fuera de e
 
 Brindo clases de programacion online, ya sea, para acompañarte en tu proceso de aprendizaje como para ayudarte en la resolucion de problemas puntuales.
 
+### Contacto
+
+Puede comunicarse conmigo por correo electrónico a [damiansirecontacto@hotmail.com](damiansirecontacto@hotmail.com)
+
 ```markdown
 Syntax highlighted code block
 
