@@ -47,7 +47,7 @@ Lamentablemente no cuento con el acceso a las entrevistas que he brindado para l
 
 ### Mis servicios
 
-#### Consultarias de Desarrollo
+#### Consultorias de Desarrollo
 
 Mi mayor objetivo es aportarte valor continuo en el tiempo que trabajemos juntos, por ello, para contrataciones mayores a dos semanas, prefiero trabajar con Sprints, que son unidades de trabajo de dos semanas que incluyen: una sesión de planificación al principio para definir el alcance, una revisión al final de la primera semana y una demostración al final de la segunda semana.
 
