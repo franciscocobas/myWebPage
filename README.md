@@ -27,7 +27,7 @@ Hace años que concurro activamente a las meetups, ya sea presencial o virtualme
 
 - ***PyLadies*** - [Persiguiendo al COVID-19 por Damián Siré](https://www.meetup.com/es/PyLadiesUy/events/269044767/).
 
-- ***Python Argentina*** - [Introduccion a Numpy y Pandas por Damián Siré](https://www.meetup.com/es/Buenos-Aires-Python-Meetup/events/271011152/).  [Video](https://www.youtube.com/watch?v=UDEsfidDAS8). 
+- ***Python Argentina*** - [Introduccion a Numpy y Pandas por Damián Siré](https://www.meetup.com/es/Buenos-Aires-Python-Meetup/events/271011152/).  [Para ver el video, click aqui](https://www.youtube.com/watch?v=UDEsfidDAS8). 
 
 - Bonus track (2019): ***JavascriptMontevideo*** - [Programación Dinámica + ML con JS por Damián Siré](https://www.meetup.com/es/montevideojs/events/264156360/).
 
