@@ -29,6 +29,8 @@ Hace años que concurro activamente a las meetups, ya sea presencial o virtualme
 
 - ***Python Argentina*** - [Introduccion a Numpy y Pandas por Damián Siré](https://www.meetup.com/es/Buenos-Aires-Python-Meetup/events/271011152/).  [Para ver el video, click aqui](https://www.youtube.com/watch?v=UDEsfidDAS8). 
 
+- **Javascript Montevideo*** - [RxJs - Observables y Operadores](https://www.meetup.com/es/montevideojs/events/271022594/). 
+
 - Bonus track (2019): ***JavascriptMontevideo*** - [Programación Dinámica + ML con JS por Damián Siré](https://www.meetup.com/es/montevideojs/events/264156360/).
 
 ### Próximas charlas
