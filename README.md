@@ -29,13 +29,14 @@ Hace años que concurro activamente a las meetups, ya sea presencial o virtualme
 
 - ***Python Argentina*** - [Introduccion a Numpy y Pandas por Damián Siré](https://www.meetup.com/es/Buenos-Aires-Python-Meetup/events/271011152/).  [Para ver el video, click aqui](https://www.youtube.com/watch?v=UDEsfidDAS8). 
 
-- **Javascript Montevideo*** - [RxJs - Observables y Operadores](https://www.meetup.com/es/montevideojs/events/271022594/). 
+- ***Javascript Montevideo*** - [RxJs - Observables y Operadores](https://www.meetup.com/es/montevideojs/events/271022594/). 
 
 - Bonus track (2019): ***JavascriptMontevideo*** - [Programación Dinámica + ML con JS por Damián Siré](https://www.meetup.com/es/montevideojs/events/264156360/).
 
 ### Próximas charlas
 
-- ***JavascriptMontevideo*** - [RxJs - Observables y Operadores]([[https://www.meetup.com/es/montevideojs/](https://www.meetup.com/es/montevideojs/)]).
+- ***NgPanama*** - [TBD]([[https://www.meetup.com/es/montevideojs/](https://www.meetup.com/es/montevideojs/)]).
+
 
 Si tuviera que definirme, soy esa persona que te va a escuchar atentamente e inconcientemente te va a hacer que si con la cabeza mientras presentas, porque se lo que es estar de esa lado y la seguridad que da mirar a alguien diciendo que si. (Parece tonto, lo se)
 
