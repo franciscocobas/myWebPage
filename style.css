@@ -1,0 +1,210 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #e19e5d;
+    font-family: sans-serif;
+}
+
+.hero-image {
+    position: relative;
+    overflow: hidden;
+    background: url(https://backiee.com/static/wpdb/wallpapers/1920x1080/197085.jpg) no-repeat center;
+    background-size: cover;
+    height: 500px;
+}
+
+.container {
+    padding-bottom: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.container h1 {
+    font-size: 72px;
+    letter-spacing: 0.1em;
+    min-width: 650px;
+}
+
+.container h1 span {
+    border: 10px solid white;
+    padding: 4px 14px;
+}
+
+.des {
+    margin-bottom: 20px;
+    display: block;
+    font-size: 26px;
+    color: white;
+    text-shadow: 0 0 10px black;
+}
+
+.btn {
+    color: #313131;
+    padding: 10px 24px;
+    font-size: 20px;
+    text-decoration: none;
+    background: #f1f1f1;
+    border-radius: 8px;
+    transition: 0.3s all;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+#contact {
+    float: right;
+    margin-right: 3%;
+    position: relative;
+    top: 430px;
+    font-size: 12px;
+}
+
+#contact ul {
+    font-family: sans-serif;
+    list-style: none;
+    color: white;
+    text-shadow: 0 0 10px black;
+    font-weight: bold;
+    border-radius: 8%;
+}
+
+section {
+    width: 75%;
+    margin: 5% auto;
+}
+
+#right {
+    float: right;
+    width: 36.5%;
+    margin-bottom: 20px;
+}
+
+.sidebar {
+    padding: 5px 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-color: whitesmoke;
+    margin-bottom: 10%;
+}
+
+#workexperience {
+    padding: 1em;
+    width: 55%;
+    float: left;
+    background-color: whitesmoke;
+    margin-bottom: 35px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.info {
+    display: none;
+}
+
+td {
+    vertical-align: top;
+    padding-top: 5px;
+}
+
+tbody tr:first-child td:first-child {
+    padding: 1em 1em;
+    font-style: italic;
+    font-weight: 550;
+}
+
+tbody tr:last-child td:last-child {
+    padding-bottom: 3em;
+}
+
+.charitywork {
+    clear: both;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    padding: 0.5em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    padding: 0.5em 0;
+    margin: 0;
+    border-bottom: 5px solid black;
+}
+
+.org {
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#links {
+    border: 1px red solid;
+    font-size: 18px;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 1);
+    border: 5px white solid;
+    line-height: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.link {
+    padding: 7px 10px;
+}
+
+.link:hover {
+    background-color: orange;
+    text-shadow: none;
+    color: whitesmoke;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.link:active {
+    color: red;
+}
+
+.link:visited {
+    border-left: 2px orangered solid;
+    border-right: 2px orangered solid;
+    color: white;
+}
+
+#contact a,
+#links a {
+    text-decoration: none;
+    color: beige;
+}
+
+iframe#videoFrame {
+    width: 55%;
+    height: 212px;
+}
+
+#youtube:hover {
+    color: red;
+}
+
+#instagram:hover {
+    color: orangered;
+}
+
+#twitter:hover {
+    color: blue;
+}
