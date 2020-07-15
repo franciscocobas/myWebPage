@@ -33,9 +33,7 @@ Hace años que concurro activamente a las meetups, ya sea presencial o virtualme
 
 - Bonus track (2019): ***JavascriptMontevideo*** - [Programación Dinámica + ML con JS por Damián Siré](https://www.meetup.com/es/montevideojs/events/264156360/).
 
-### Próximas charlas
-
-- ***NgPanama*** - [TBD]([[https://www.meetup.com/es/montevideojs/](https://www.meetup.com/es/montevideojs/)]).
+- ***NgPanama*** - [Programacion Reactiva en Angular con RxJs y Observables]([[https://www.meetup.com/es/Ng-Panama/events/271661906/)]).
 
 
 Si tuviera que definirme, soy esa persona que te va a escuchar atentamente e inconcientemente te va a hacer que si con la cabeza mientras presentas, porque se lo que es estar de esa lado y la seguridad que da mirar a alguien diciendo que si. (Parece tonto, lo se)
