@@ -1,9 +1,10 @@
 import * as React from "react"
-import profileImg from '../images/profile.jpg';
+import profileImg from "../images/profile.jpg"
 
 const Sidebar = () => (
   <div
-    className="p-6"
+    className="p-6 h-screen sticky top-0"
+    style={{ backgroundImage: 'url("https://i.imgur.com/icFY0WL.jpg")' }}
   >
     <div>
       <img src={profileImg} className="rounded-full" />
@@ -86,4 +87,4 @@ const Sidebar = () => (
 
 export default Sidebar
 
-  //    style="background-image: url(https://i.imgur.com/icFY0WL.jpg)"
+//    style="background-image: url(https://i.imgur.com/icFY0WL.jpg)"
