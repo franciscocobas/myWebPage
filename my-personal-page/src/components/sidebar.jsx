@@ -1,6 +1,6 @@
 import * as React from "react"
 import profileImg from "../images/profile.jpg"
-import SocialMedias from "./social-medias"
+import SocialMedias from "./socialMedias"
 const Sidebar = () => (
   <div
     className="h-screen sticky top-0 text-center"
