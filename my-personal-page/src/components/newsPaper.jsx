@@ -1,32 +1,39 @@
-import * as React from "react"
-import diarioImg from "../images/foto_diario.png"
-import plataformaImg from "../images/plataforma.jpg"
-import yoImg from "../images/yo.jpg"
-import CardsWithoutTitle from "../components/cardsWithoutTitle"
+import React, { useState } from "react"
 
-const NewsSpaper = () => (
+import { newsPaper } from "../data/newsPaper"
+const NewsPaper = () => {
+  const [selectedNewsPaper, setSelectedNewsPaper] = useState(0)
+  return (
+    <div className="border-4 p-1">
+      <div className="border-4 text-center">Noticias sobre mi en la prensa</div>
+      <div className="grid grid-cols-12">
+        <div className="col-span-5">
+          <img
+            className="w-60 h-15 mr-4"
+            src={newsPaper[selectedNewsPaper].img}
+            alt="El observador foto"
+          />
+        </div>
+        <div className="col-span-7 self-center">
+          {newsPaper[selectedNewsPaper].description}
+        </div>
+      </div>
+      <div className="text-center border-t-2 mt-1 p-1">
+        <button
+          onClick={() => {
+            setSelectedNewsPaper(actualSelected => {
+              return (actualSelected + 1) % 3
+            })
+          }}
+          class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold
+          hover:text-white py-2 px-4 border border-blue-500
+          hover:border-transparent rounded"
+        >
+          Siguiente Noticia
+        </button>
+      </div>
+    </div>
+  )
+}
 
-  <div>
-    <h2>Participacion en la prensa</h2>
-
-    <CardsWithoutTitle img={yoImg}
-      tag={"Seguridad Informatica"}
-      text="Damian Sire detecta y reporta agujero de seguridad en la
-                        Universidad de la Republica (Udelar) que exponia datos personales
-                        de cientos de miles de estudiantes, docentes y egresados." />
-
-
-    <CardsWithoutTitle img={diarioImg}
-      tag={"Seguridad Informatica"}
-      text="Jovenes Hackers Uruguayos Encuentran vulnerabilidades en Udelar,
-              UTU, Cancilleria y Aeropuerto." />
-
-    <CardsWithoutTitle img={plataformaImg}
-      tag={"Seguridad Informatica"}
-      text="Fallo en la plataforma educativa Uruguaya vulnera cuentas de sus
-              estudiantes." />
-
-  </div >
-)
-
-export default NewsSpaper
+export default NewsPaper

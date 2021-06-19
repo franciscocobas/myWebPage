@@ -1,5 +1,7 @@
 import React from "react"
 
+import { talksAmount } from "../data/talks"
+
 const MyStatistics = () => {
   return (
     <div class="max-w-7xl w-full mx-auto pt-2 sm:px-6 lg:px-8">
@@ -66,7 +68,7 @@ const MyStatistics = () => {
                 <div class="text-xs uppercase font-light text-gray-500">
                   Charlas
                 </div>
-                <div class="text-xl font-bold">20</div>
+                <div class="text-xl font-bold">{talksAmount}</div>
               </div>
               <svg
                 role="img"
