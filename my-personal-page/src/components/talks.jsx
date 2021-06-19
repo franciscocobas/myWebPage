@@ -6,9 +6,17 @@ const Talks = props => {
   const [selectedTalk, setSelectedTalk] = useState(props.talks[0])
   return (
     <div>
-      <div>{props.year}</div>
+      <h1 className="text-lg my-3">
+        Charla en{" "}
+        <span className="font-bold"> {selectedTalk.communityName} </span> del
+        año
+        <span className="font-bold"> {selectedTalk.year}</span>
+      </h1>
       <Talk talk={selectedTalk} />
-      <div className="flex ">
+      <div
+        className="grid
+grid-cols-6"
+      >
         {props.talks &&
           props.talks.map(talk => (
             <div
@@ -25,9 +33,10 @@ transform
 hover:-translate-y-1
 transition-all
 duration-200
+col-span-1
 p-2"
             >
-              <img src={talk.communityImg} width="50" />
+              <img src={talk.communityImg} />
             </div>
           ))}
       </div>

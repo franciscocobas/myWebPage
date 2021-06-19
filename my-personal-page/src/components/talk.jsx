@@ -1,9 +1,10 @@
 import React from "react"
 const Talk = props => {
   return (
-    <div className="container mt-4 mx-auto">
-      <div
-        className="
+    <a href={props.talk.talkLink} target="_blank">
+      <div className="container mb-4 mx-auto" href={props.talk.talkLink}>
+        <div
+          className="
 card
 cursor-pointer
 border border-gray-400
@@ -19,24 +20,10 @@ grid
 grid-cols-12
 gap-2 
 "
-      >
-        <div className="col-span-9">
-          <h2 className="text-lg mb-2">{props.talk.talkTitle}</h2>
-          <p
-            className="
-font-light font-mono
-text-sm text-gray-700
-hover:text-gray-900
-transition-all
-duration-200
-"
-          >
-            <p>{props.talk.talkLink} </p>
-          </p>
-        </div>
-        <div className="col-span-3">
-          <span
-            className="
+        >
+          <div className="col-span-2">
+            <span
+              className="
 text-sm text-teal-800
 font-mono
 bg-teal-100
@@ -44,16 +31,19 @@ inline
 rounded-full
 px-2
 align-top
-float-right
+float-left
 animate-pulse
 "
-          >
-            {props.talk.communityName}
-            <img src={props.talk.communityImg} width="50" />
-          </span>
+            >
+              <img src={props.talk.communityImg} width="50" />
+            </span>
+          </div>
+          <div className="col-span-10 self-center">
+            <h2 className="text-lg mb-2">{props.talk.talkTitle}</h2>
+          </div>
         </div>
       </div>
-    </div>
+    </a>
   )
 }
 
