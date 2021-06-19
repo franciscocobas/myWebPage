@@ -3,7 +3,7 @@ import profileImg from "../images/profile.jpg"
 import SocialMedias from "./socialMedias"
 const Sidebar = () => (
   <div
-    className="h-screen sticky top-0 text-center"
+    className="max-md:pb-4 md:h-screen sticky top-0 text-center"
     style={{ backgroundImage: 'url("https://i.imgur.com/icFY0WL.jpg")' }}
   >
     <div>
