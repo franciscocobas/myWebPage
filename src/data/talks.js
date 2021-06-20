@@ -75,6 +75,15 @@ export const talks = [
     year: "2020",
   },
   {
+    communityName: "Matea Social",
+    talkLink: "https: //matea.social/academia.html",
+    talkTitle: "Angular Vs React ¿Que los diferencia?",
+    country: "Uruguay",
+    communityImg:
+      "https://media-exp3.licdn.com/dms/image/C4E0BAQEYxIVwg39gKw/company-logo_200_200/0/1575903650004?e=2159024400&v=beta&t=D6YQlxIadnzzU5lX2G1t5y4afwup3YbmJU2qkedyk_8",
+    year: "2020",
+  },
+  {
     communityName: "AngularMVD",
     talkLink: "https://www.meetup.com/es/Angular-MVD/events/fxpjxryccgbcc/",
     talkTitle: "Controlando nuestra app con IA",
@@ -110,6 +119,14 @@ export const talks = [
     year: "2020",
   },
   {
+    communityName: "Joacos Twitters Spaces",
+    talkLink: "https://twitter.com/JoaoPixeles",
+    talkTitle: "Estructura de datos y Algoritmos",
+    country: "Colombia",
+    communityImg: "https://i.imgur.com/DBQTBY7_d.webp?maxwidth=760",
+    year: "2021",
+  },
+  {
     communityName: "AngularMVD",
     talkLink: "https://www.meetup.com/es/Angular-MVD/events/ktqljlybchbbc/",
     talkTitle: "Visualización de datos en angular con PrimeNg",
@@ -118,7 +135,15 @@ export const talks = [
       "https://pbs.twimg.com/profile_images/1338293779166588930/ectI2Uso.jpg",
     year: "2020",
   },
-
+  {
+    communityName: "Manuel - UndefinedDevs",
+    talkLink: "https://www.youtube.com/watch?v=tiFQRqkZ6aU",
+    talkTitle: "La evolucion de las comunidades tecnologicas",
+    country: "Colombia",
+    communityImg:
+      "https://yt3.ggpht.com/ytc/AAUvwngJW-BHmQ9XpatLhyRwdZQytBVhbVxkgRn_0AKolA=s88-c-k-c0x00ffffff-no-rj",
+    year: "2020",
+  },
   {
     communityName: "Dominicode",
     talkLink: "https://www.youtube.com/watch?v=56535Sf6sgE",
