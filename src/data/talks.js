@@ -126,6 +126,15 @@ export const talks = [
     communityImg: "https://i.imgur.com/DBQTBY7_d.webp?maxwidth=760",
     year: "2021",
   },
+    {
+    communityName: "Nube Colectiva",
+    talkLink: "https://www.youtube.com/watch?v=J69MbeM6b8U&t=5s&ab_channel=NubeColectiva",
+    talkTitle: "Novedades de Angular 12",
+    country: "Peru",
+    communityImg:
+      "https://lh5.googleusercontent.com/-x_mzJGA2lB8/AAAAAAAAAAI/AAAAAAAAAAA/nAlFkUKaK7c/s60-p-k-no-ns-nd/photo.jpg",
+    year: "2020",
+  },
   {
     communityName: "AngularMVD",
     talkLink: "https://www.meetup.com/es/Angular-MVD/events/ktqljlybchbbc/",
