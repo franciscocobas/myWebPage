@@ -8,14 +8,29 @@ const NewsPaper = () => {
       <div className="border-4 text-center">Noticias sobre mi en la prensa</div>
       <div className="grid grid-cols-12">
         <div className="col-span-5">
-          <img
-            className="w-60 h-15 mr-4"
-            src={newsPaper[selectedNewsPaper].img}
-            alt="El observador foto"
-          />
+          {
+            newsPaper[selectedNewsPaper].url ? 
+              <a href={newsPaper[selectedNewsPaper].url} target="_blank" rel="noreferrer">
+                <img
+                  className="w-60 h-15 mr-4"
+                  src={newsPaper[selectedNewsPaper].img}
+                  alt="El observador foto"
+                />
+              </a> : <img
+                className="w-60 h-15 mr-4"
+                src={newsPaper[selectedNewsPaper].img}
+                alt="El observador foto"
+              />
+          }
+          
         </div>
         <div className="col-span-7 self-center">
-          {newsPaper[selectedNewsPaper].description}
+          {
+            newsPaper[selectedNewsPaper].url ? 
+              <a href={newsPaper[selectedNewsPaper].url} target="_blank" rel="noreferrer">
+                <p>{newsPaper[selectedNewsPaper].description}</p>
+              </a> : <p>{newsPaper[selectedNewsPaper].description}</p>
+          }
         </div>
       </div>
       <div className="text-center border-t-2 mt-1 p-1">
